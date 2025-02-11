@@ -43,8 +43,8 @@ Berikut adalah teknologi dan tools yang sudah saya pelajari dan gunakan:
 Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 - **Project 1**: [FamiList](https://github.com/faidzabdl/familist) - Projek pemantapan To Do List
-- **Project 2**: [FamiList](https://github.com/faidzabdl/FamResto) - Projek pemesanan meja restoran sederhana
-- **Project 3**: [FamiList](https://github.com/faidzabdl/FamBid) - Projek pelelangan sederhana
+- **Project 2**: [FamResto](https://github.com/faidzabdl/FamResto) - Projek pemesanan meja restoran sederhana
+- **Project 3**: [FamBid](https://github.com/faidzabdl/FamBid) - Projek pelelangan sederhana
 ---
 
 ### 📈 GitHub Stats
