@@ -79,6 +79,10 @@ Saya selalu tertarik untuk mempelajari teknologi baru dan mencoba hal-hal yang m
   <a href="mailto:faidzabdl@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+<a href="https://faidzabdl.github.io/portoFaidz/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+</a>
+
 </p>
 
 ---
