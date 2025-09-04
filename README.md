@@ -48,6 +48,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 - **Project 4**: [FAL](https://github.com/faidzabdl/FanimeList) - Projek web clone sederhana dari website myanimelist
 - **Project 5**: [TURNBASED](https://github.com/faidzabdl/projek_belajar_godot) - Projek game 2d turn based rpg dengan godot
 - **Project 6**: [FPS](https://github.com/faidzabdl/projek-game-3d) - Projek game 3d FPS dengan godot
+- **Project 7**: [DONTOL](https://github.com/faidzabdl/DontolStudio) - Projek tugas kelompok sekolah mengenai jasa 
 ---
 
 ### 📈 GitHub Stats
