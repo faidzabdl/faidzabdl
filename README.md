@@ -46,6 +46,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 - **Project 2**: [FamResto](https://github.com/faidzabdl/FamResto) - Projek web pemesanan meja restoran sederhana
 - **Project 3**: [FamBid](https://github.com/faidzabdl/FamBid) - Projek web elelangan sederhana
 - **Project 4**: [FAL](https://github.com/faidzabdl/FanimeList) - Projek web clone sederhana dari website myanimelist
+- **Project 5**: [TURNBASED](https://github.com/faidzabdl/FanimeList) - Projek game 2d turn based rpg dengan godot
 ---
 
 ### 📈 GitHub Stats
